@@ -1,0 +1,308 @@
+NumClasse,Professor,Materia,Estudante
+C-10,Jucelino,Geografia,João
+C-10,Jucelino,Geografia,Maria
+C-10,Jucelino,Geografia,Roberta
+C-10,Jucelino,Geografia,Pedro
+C-10,Jucelino,Geografia,Célia
+C-15,Carlota,Historia,João
+C-15,Carlota,Historia,Maria
+C-15,Carlota,Historia,Roberta
+C-15,Carlota,Historia,Pedro
+C-15,Carlota,Historia,Célia
+C-22,Abelardo,Portugues,Maria
+C-22,Abelardo,Portugues,Roberta
+C-22,Abelardo,Portugues,Pedro
+C-22,Abelardo,Portugues,Célia
+C-26,Benedita,Literatura,João
+C-26,Benedita,Literatura,Maria
+C-26,Benedita,Literatura,Roberta
+C-33,Geralda,Ciencias,João
+C-33,Geralda,Ciencias,Maria
+C-33,Geralda,Ciencias,Roberta
+C-33,Geralda,Ciencias,Pedro
+C-33,Geralda,Ciencias,Célia
+c-44,Eustáquio,Matematica,João
+c-44,Eustáquio,Matematica,Maria
+c-44,Eustáquio,Matematica,Roberta
+c-44,Eustáquio,Matematica,Pedro
+c-44,Eustáquio,Matematica,Célia
+c-55,Jonleno,Geometria,João
+c-55,Jonleno,Geometria,Maria
+c-55,Jonleno,Geometria,Roberta
+c-55,Jonleno,Geometria,Pedro
+c-55,Jonleno,Geometria,Célia
+C-58,Jonleno,Filosofia,João
+C-58,Jonleno,Filosofia,Maria
+C-58,Jonleno,Filosofia,Roberta
+C-58,Jonleno,Filosofia,Pedro
+C-58,Jonleno,Filosofia,Célia
+C-11,Carlos,Matemática,Gustavo Costa
+C-11,Carlos,Matemática,Daniela Oliveira
+C-11,Carlos,Matemática,Bruno Santos
+C-11,Carlos,Matemática,Fernanda Rodrigues
+C-11,Carlos,Matemática,Fernanda Costa
+C-11,Carlos,Matemática,Carlos Gomes
+C-11,Carlos,Matemática,Daniela Oliveira
+C-11,Carlos,Matemática,Helena Souza
+C-11,Carlos,Matemática,Igor Silva
+C-11,Carlos,Matemática,Carlos Oliveira
+C-11,Carlos,História,Bruno Costa
+C-11,Carlos,História,Fernanda Oliveira
+C-11,Carlos,História,Bruno Costa
+C-11,Carlos,História,Daniela Santos
+C-11,Carlos,História,Gustavo Santos
+C-11,Carlos,História,Helena Gomes
+C-11,Carlos,História,Bruno Costa
+C-11,Carlos,História,Gustavo Costa
+C-11,Carlos,História,Carlos Gomes
+C-11,Carlos,História,Ana Almeida
+C-11,Carlos,Biologia,Igor Santos
+C-11,Carlos,Biologia,Ana Santos
+C-11,Carlos,Biologia,Ana Gomes
+C-11,Carlos,Biologia,Helena Silva
+C-11,Carlos,Biologia,Daniela Santos
+C-11,Carlos,Biologia,Bruno Oliveira
+C-11,Carlos,Biologia,Daniela Almeida
+C-11,Carlos,Biologia,Helena Santos
+C-11,Carlos,Biologia,Daniela Rodrigues
+C-11,Carlos,Biologia,Fernanda Souza
+C-11,Fernanda,Matemática,Bruno Silva
+C-11,Fernanda,Matemática,Daniela Santos
+C-11,Fernanda,Matemática,Ana Oliveira
+C-11,Fernanda,Matemática,Gustavo Rodrigues
+C-11,Fernanda,Matemática,Ana Santos
+C-11,Fernanda,Matemática,Carlos Gomes
+C-11,Fernanda,Matemática,Igor Pereira
+C-11,Fernanda,Matemática,Gustavo Rodrigues
+C-11,Fernanda,Matemática,Ana Almeida
+C-11,Fernanda,Matemática,Igor Oliveira
+C-11,Fernanda,História,Igor Lima
+C-11,Fernanda,História,Carlos Silva
+C-11,Fernanda,História,Daniela Lima
+C-11,Fernanda,História,Ana Gomes
+C-11,Fernanda,História,Eduardo Pereira
+C-11,Fernanda,História,Fernanda Gomes
+C-11,Fernanda,História,Daniela Silva
+C-11,Fernanda,História,Igor Souza
+C-11,Fernanda,História,Fernanda Costa
+C-11,Fernanda,História,Helena Gomes
+C-11,Fernanda,Biologia,Eduardo Costa
+C-11,Fernanda,Biologia,Bruno Pereira
+C-11,Fernanda,Biologia,Eduardo Souza
+C-11,Fernanda,Biologia,Daniela Gomes
+C-11,Fernanda,Biologia,Helena Costa
+C-11,Fernanda,Biologia,Bruno Souza
+C-11,Fernanda,Biologia,Juliana Almeida
+C-11,Fernanda,Biologia,Juliana Gomes
+C-11,Fernanda,Biologia,Carlos Lima
+C-11,Fernanda,Biologia,Eduardo Costa
+C-11,Patricia,Matemática,Daniela Pereira
+C-11,Patricia,Matemática,Juliana Rodrigues
+C-11,Patricia,Matemática,Bruno Costa
+C-11,Patricia,Matemática,Bruno Silva
+C-11,Patricia,Matemática,Ana Souza
+C-11,Patricia,Matemática,Ana Santos
+C-11,Patricia,Matemática,Eduardo Pereira
+C-11,Patricia,Matemática,Helena Almeida
+C-11,Patricia,Matemática,Ana Pereira
+C-11,Patricia,Matemática,Igor Almeida
+C-11,Patricia,História,Bruno Souza
+C-11,Patricia,História,Eduardo Santos
+C-11,Patricia,História,Carlos Pereira
+C-11,Patricia,História,Eduardo Santos
+C-11,Patricia,História,Helena Lima
+C-11,Patricia,História,Daniela Pereira
+C-11,Patricia,História,Helena Almeida
+C-11,Patricia,História,Ana Rodrigues
+C-11,Patricia,História,Igor Silva
+C-11,Patricia,História,Helena Silva
+C-11,Patricia,Biologia,Eduardo Gomes
+C-11,Patricia,Biologia,Helena Silva
+C-11,Patricia,Biologia,Helena Gomes
+C-11,Patricia,Biologia,Igor Oliveira
+C-11,Patricia,Biologia,Bruno Almeida
+C-11,Patricia,Biologia,Carlos Lima
+C-11,Patricia,Biologia,Igor Oliveira
+C-11,Patricia,Biologia,Igor Almeida
+C-11,Patricia,Biologia,Eduardo Almeida
+C-11,Patricia,Biologia,Igor Costa
+C-12,Carlos,Matemática,Helena Oliveira
+C-12,Carlos,Matemática,Igor Lima
+C-12,Carlos,Matemática,Bruno Costa
+C-12,Carlos,Matemática,Ana Gomes
+C-12,Carlos,Matemática,Helena Silva
+C-12,Carlos,Matemática,Gustavo Souza
+C-12,Carlos,Matemática,Fernanda Silva
+C-12,Carlos,Matemática,Gustavo Gomes
+C-12,Carlos,Matemática,Gustavo Gomes
+C-12,Carlos,Matemática,Ana Souza
+C-12,Carlos,História,Juliana Oliveira
+C-12,Carlos,História,Gustavo Santos
+C-12,Carlos,História,Daniela Silva
+C-12,Carlos,História,Juliana Gomes
+C-12,Carlos,História,Bruno Almeida
+C-12,Carlos,História,Ana Almeida
+C-12,Carlos,História,Fernanda Pereira
+C-12,Carlos,História,Carlos Costa
+C-12,Carlos,História,Helena Silva
+C-12,Carlos,História,Eduardo Almeida
+C-12,Carlos,Biologia,Juliana Santos
+C-12,Carlos,Biologia,Juliana Costa
+C-12,Carlos,Biologia,Ana Santos
+C-12,Carlos,Biologia,Gustavo Oliveira
+C-12,Carlos,Biologia,Eduardo Gomes
+C-12,Carlos,Biologia,Carlos Gomes
+C-12,Carlos,Biologia,Ana Costa
+C-12,Carlos,Biologia,Ana Santos
+C-12,Carlos,Biologia,Daniela Lima
+C-12,Carlos,Biologia,Bruno Oliveira
+C-12,Fernanda,Matemática,Daniela Costa
+C-12,Fernanda,Matemática,Eduardo Rodrigues
+C-12,Fernanda,Matemática,Eduardo Santos
+C-12,Fernanda,Matemática,Daniela Santos
+C-12,Fernanda,Matemática,Eduardo Almeida
+C-12,Fernanda,Matemática,Fernanda Almeida
+C-12,Fernanda,Matemática,Helena Gomes
+C-12,Fernanda,Matemática,Fernanda Souza
+C-12,Fernanda,Matemática,Gustavo Santos
+C-12,Fernanda,Matemática,Daniela Souza
+C-12,Fernanda,História,Igor Oliveira
+C-12,Fernanda,História,Helena Oliveira
+C-12,Fernanda,História,Bruno Silva
+C-12,Fernanda,História,Gustavo Pereira
+C-12,Fernanda,História,Igor Almeida
+C-12,Fernanda,História,Carlos Almeida
+C-12,Fernanda,História,Helena Pereira
+C-12,Fernanda,História,Helena Pereira
+C-12,Fernanda,História,Igor Costa
+C-12,Fernanda,História,Bruno Santos
+C-12,Fernanda,Biologia,Eduardo Souza
+C-12,Fernanda,Biologia,Ana Costa
+C-12,Fernanda,Biologia,Igor Souza
+C-12,Fernanda,Biologia,Gustavo Gomes
+C-12,Fernanda,Biologia,Helena Souza
+C-12,Fernanda,Biologia,Ana Gomes
+C-12,Fernanda,Biologia,Gustavo Oliveira
+C-12,Fernanda,Biologia,Juliana Rodrigues
+C-12,Fernanda,Biologia,Bruno Pereira
+C-12,Fernanda,Biologia,Carlos Silva
+C-12,Patricia,Matemática,Bruno Pereira
+C-12,Patricia,Matemática,Bruno Souza
+C-12,Patricia,Matemática,Gustavo Rodrigues
+C-12,Patricia,Matemática,Helena Pereira
+C-12,Patricia,Matemática,Carlos Pereira
+C-12,Patricia,Matemática,Bruno Costa
+C-12,Patricia,Matemática,Carlos Souza
+C-12,Patricia,Matemática,Eduardo Rodrigues
+C-12,Patricia,Matemática,Gustavo Oliveira
+C-12,Patricia,Matemática,Daniela Costa
+C-12,Patricia,História,Daniela Costa
+C-12,Patricia,História,Eduardo Santos
+C-12,Patricia,História,Igor Costa
+C-12,Patricia,História,Bruno Costa
+C-12,Patricia,História,Bruno Lima
+C-12,Patricia,História,Eduardo Santos
+C-12,Patricia,História,Ana Gomes
+C-12,Patricia,História,Fernanda Pereira
+C-12,Patricia,História,Daniela Silva
+C-12,Patricia,História,Ana Rodrigues
+C-12,Patricia,Biologia,Gustavo Santos
+C-12,Patricia,Biologia,Eduardo Oliveira
+C-12,Patricia,Biologia,Gustavo Silva
+C-12,Patricia,Biologia,Fernanda Almeida
+C-12,Patricia,Biologia,Igor Almeida
+C-12,Patricia,Biologia,Bruno Costa
+C-12,Patricia,Biologia,Gustavo Oliveira
+C-12,Patricia,Biologia,Juliana Almeida
+C-12,Patricia,Biologia,Igor Oliveira
+C-12,Patricia,Biologia,Fernanda Silva
+C-13,Carlos,Matemática,Bruno Oliveira
+C-13,Carlos,Matemática,Bruno Silva
+C-13,Carlos,Matemática,Carlos Oliveira
+C-13,Carlos,Matemática,Igor Almeida
+C-13,Carlos,Matemática,Daniela Souza
+C-13,Carlos,Matemática,Eduardo Silva
+C-13,Carlos,Matemática,Fernanda Oliveira
+C-13,Carlos,Matemática,Ana Rodrigues
+C-13,Carlos,Matemática,Igor Almeida
+C-13,Carlos,Matemática,Carlos Costa
+C-13,Carlos,História,Gustavo Costa
+C-13,Carlos,História,Carlos Souza
+C-13,Carlos,História,Eduardo Souza
+C-13,Carlos,História,Bruno Pereira
+C-13,Carlos,História,Carlos Oliveira
+C-13,Carlos,História,Fernanda Almeida
+C-13,Carlos,História,Fernanda Silva
+C-13,Carlos,História,Eduardo Almeida
+C-13,Carlos,História,Fernanda Lima
+C-13,Carlos,História,Igor Santos
+C-13,Carlos,Biologia,Helena Souza
+C-13,Carlos,Biologia,Helena Silva
+C-13,Carlos,Biologia,Bruno Gomes
+C-13,Carlos,Biologia,Helena Costa
+C-13,Carlos,Biologia,Bruno Oliveira
+C-13,Carlos,Biologia,Bruno Oliveira
+C-13,Carlos,Biologia,Helena Gomes
+C-13,Carlos,Biologia,Juliana Santos
+C-13,Carlos,Biologia,Helena Souza
+C-13,Carlos,Biologia,Eduardo Oliveira
+C-13,Fernanda,Matemática,Gustavo Rodrigues
+C-13,Fernanda,Matemática,Igor Oliveira
+C-13,Fernanda,Matemática,Bruno Pereira
+C-13,Fernanda,Matemática,Carlos Gomes
+C-13,Fernanda,Matemática,Eduardo Souza
+C-13,Fernanda,Matemática,Gustavo Gomes
+C-13,Fernanda,Matemática,Juliana Oliveira
+C-13,Fernanda,Matemática,Eduardo Santos
+C-13,Fernanda,Matemática,Gustavo Oliveira
+C-13,Fernanda,Matemática,Ana Rodrigues
+C-13,Fernanda,História,Daniela Souza
+C-13,Fernanda,História,Igor Pereira
+C-13,Fernanda,História,Juliana Gomes
+C-13,Fernanda,História,Igor Almeida
+C-13,Fernanda,História,Igor Rodrigues
+C-13,Fernanda,História,Ana Silva
+C-13,Fernanda,História,Eduardo Santos
+C-13,Fernanda,História,Eduardo Costa
+C-13,Fernanda,História,Eduardo Rodrigues
+C-13,Fernanda,História,Helena Santos
+C-13,Fernanda,Biologia,Bruno Almeida
+C-13,Fernanda,Biologia,Ana Silva
+C-13,Fernanda,Biologia,Eduardo Lima
+C-13,Fernanda,Biologia,Eduardo Gomes
+C-13,Fernanda,Biologia,Igor Rodrigues
+C-13,Fernanda,Biologia,Juliana Silva
+C-13,Fernanda,Biologia,Helena Rodrigues
+C-13,Fernanda,Biologia,Daniela Santos
+C-13,Fernanda,Biologia,Helena Santos
+C-13,Fernanda,Biologia,Eduardo Costa
+C-13,Patricia,Matemática,Bruno Santos
+C-13,Patricia,Matemática,Helena Silva
+C-13,Patricia,Matemática,Daniela Pereira
+C-13,Patricia,Matemática,Juliana Costa
+C-13,Patricia,Matemática,Daniela Santos
+C-13,Patricia,Matemática,Helena Souza
+C-13,Patricia,Matemática,Ana Almeida
+C-13,Patricia,Matemática,Bruno Gomes
+C-13,Patricia,Matemática,Juliana Almeida
+C-13,Patricia,Matemática,Eduardo Lima
+C-13,Patricia,História,Bruno Costa
+C-13,Patricia,História,Daniela Costa
+C-13,Patricia,História,Fernanda Lima
+C-13,Patricia,História,Daniela Souza
+C-13,Patricia,História,Carlos Souza
+C-13,Patricia,História,Carlos Almeida
+C-13,Patricia,História,Carlos Oliveira
+C-13,Patricia,História,Igor Santos
+C-13,Patricia,História,Eduardo Oliveira
+C-13,Patricia,História,Eduardo Almeida
+C-13,Patricia,Biologia,Daniela Souza
+C-13,Patricia,Biologia,Eduardo Silva
+C-13,Patricia,Biologia,Bruno Pereira
+C-13,Patricia,Biologia,Ana Silva
+C-13,Patricia,Biologia,Helena Oliveira
+C-13,Patricia,Biologia,Bruno Oliveira
+C-13,Patricia,Biologia,Juliana Almeida
+C-13,Patricia,Biologia,Eduardo Lima
+C-13,Patricia,Biologia,Eduardo Oliveira
+C-13,Patricia,Biologia,Igor Santos
